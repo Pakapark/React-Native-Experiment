@@ -16,7 +16,7 @@ After the program is run, you can swipe left and right like in the real Tinder. 
 
 ### Sample Images
 
-[](./tinder-app-image.png)
+![tinder app image](tinder-app-sample.png)
 
 ### Implementation Time
 
